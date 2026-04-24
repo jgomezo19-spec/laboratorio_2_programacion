@@ -1,0 +1,11 @@
+1;John Smith;jsmith;AdminMaster2024!;super admin;Active;IT Director
+2;Sarah Johnson;sjohnson;SecurePass456!;admin;Active;System Manager
+3;Michael Brown;mbrown;UserPass789!;user;Active;Technical Support
+4;Emily Davis;edavis;EmilysPass2024!;admin;Active;HR Manager
+5;David Wilson;dwilson;DavidW123$;user;Active;Sales Executive
+6;Lisa Anderson;landerson;LisaA2024#;user;Active;Marketing Coordinator
+7;Robert Martinez;rmartinez;RobertM456!;admin;Active;Finance Director
+8;Jennifer Taylor;jtaylor;JenT2024%;user;Active;Customer Support
+9;William Thomas;wthomas;WillT789@;user;Active;Operations Analyst
+10;Patricia Garcia;pgarcia;PatG321!;admin;Active;Project Manager
+
